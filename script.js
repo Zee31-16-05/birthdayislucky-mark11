@@ -36,3 +36,4 @@ function birthDayIsLucky(){
     }
 
 }
+checkBtn.addEventListener("click",birthDayIsLucky);
